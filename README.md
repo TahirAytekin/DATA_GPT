@@ -4,7 +4,7 @@ Streamlit ve OpenAI ChatGPT API kullanarak satış verilerini analiz eden intera
 
 AŞAĞIDAKİ GÖRSEL VERİMİZİ YÜKLEMEK İÇİN SAĞLADIĞIMIZ ARAYÜZ.
 
-![VERİ_ÇEKME](assets/dataekleme.png)
+![VERİ_ÇEKME](/assets/dataekleme.png)
 
 
 VERİMİZİN İÇERİĞİNİ ÖĞRENMEK İÇİN VERDİĞİMİZ KOMUT SONUCU VERİ ÖNİZLEMESİ
